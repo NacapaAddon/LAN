@@ -1,0 +1,23 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+    <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Novos lancçamento de Animes[/COLOR][/B]</name>
+    <thumbnail>https://images2.imgbox.com/80/90/TIX8X1PN_o.png</thumbnail>
+    <externallink></externallink>
+    <fanart>https://images2.imgbox.com/44/61/cWq00pdy_o.png</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR blue]Descubra um universo repleto de aventuras e emoções na seção de Animes do BoxStream. Com novos títulos em lancamento de [COLOR lime]ANIMES[/COLOR], você encontrará desde clássicos do anime até as mais recentes e populares séries. Desfrute de histórias envolventes, personagens cativantes e animações de tirar o fôlego, tudo com a qualidade e a personalização que você merece. Atualizações constantes garantem que sempre haja algo novo para assistir. Prepare a pipoca e mergulhe no entretenimento sem fim![/COLOR] [/B]</info>
+
+</channel>
+#
+<channel>
+    <name>[B][COLOR lime]●[/COLOR] [COLOR gold]Novos lancçamento de Filmes[/COLOR][/B]</name>
+    <thumbnail>https://images2.imgbox.com/98/3a/zH9m1olB_o.png</thumbnail>
+    <externallink>LINKS</externallink>
+    <fanart>https://images2.imgbox.com/44/61/cWq00pdy_o.png</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR blue]Descubra um universo repleto de aventuras e emoções na seção de Animes do BoxStream. Com novos títulos em lancamento de [COLOR lime]FILMES[/COLOR], você encontrará desde clássicos do anime até as mais recentes e populares séries. Desfrute de histórias envolventes, personagens cativantes e animações de tirar o fôlego, tudo com a qualidade e a personalização que você merece. Atualizações constantes garantem que sempre haja algo novo para assistir. Prepare a pipoca e mergulhe no entretenimento sem fim![/COLOR] [/B]</info>
+
+</channel>
+
+</channels>
